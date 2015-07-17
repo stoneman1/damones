@@ -2,7 +2,7 @@
 	$debug = true;
 	$showcontrols = true;
 	$length_in_sec = 328; // 5min 28sec
-	$demo_song = "30_sec";
+	$demo_song = "30sec";
 	$demo_loop = true;
 	$demo_loop_begin = 15000;
 	$demo_loop_end = 15000 + 1000 * 312;
