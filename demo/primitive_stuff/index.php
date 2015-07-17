@@ -7,6 +7,8 @@
 	$demo_loop_begin = 15000;
 	$demo_loop_end = 15000 + 1000 * 312;
 	$demo_overlay = imageName;
+	$setup_background = true;
+	$setup_background_imagename = "img/lava2.jpg";
 	
 	$demo_name = "Asm2015";
 	$demo_description = "is";
